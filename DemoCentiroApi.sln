@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoCentiroApi", "DemoCentiroApi\DemoCentiroApi.csproj", "{39759AC0-13A2-4B84-8A8A-4C8FE1DD9213}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoCentiroApi", "DemoCentiroApi\DemoCentiroApi.csproj", "{39759AC0-13A2-4B84-8A8A-4C8FE1DD9213}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoCentiroApi.Application", "DemoCentiroApi.Application\DemoCentiroApi.Application.csproj", "{EA8FAB41-EB69-4522-9D1B-AB2D6EE18A93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{39759AC0-13A2-4B84-8A8A-4C8FE1DD9213}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39759AC0-13A2-4B84-8A8A-4C8FE1DD9213}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39759AC0-13A2-4B84-8A8A-4C8FE1DD9213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA8FAB41-EB69-4522-9D1B-AB2D6EE18A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA8FAB41-EB69-4522-9D1B-AB2D6EE18A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA8FAB41-EB69-4522-9D1B-AB2D6EE18A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA8FAB41-EB69-4522-9D1B-AB2D6EE18A93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
